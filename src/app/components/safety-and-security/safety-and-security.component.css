@@ -1,0 +1,16 @@
+h1, div, img{font-family: 'Roboto Mono', monospace;margin-bottom: 0.5em;}
+h1{font-size: 32px;color: #000;}
+div{font-size: 19.2px;}
+#content {
+	padding: 2rem;
+	padding-top: 3.8rem;
+	font-size: 2rem;
+    line-height: 1.2;
+    background: #fff;
+}
+
+.scrollbar {
+  overflow-y: scroll;
+  height: auto;
+  max-height: 100%;
+}

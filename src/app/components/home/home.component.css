@@ -1,0 +1,94 @@
+.fisrt-lt{
+    background: url('../../../assets/img/Home 1.jpg') no-repeat !important;
+    background-size: cover!important;
+    background-position: 100%!important;
+}
+.sec-lt{
+    background: url('../../../assets/img/ai2.jpg') no-repeat !important;
+    background-size: cover;
+}
+.third-lt{
+    background: url('../../../assets/img/services1.jpeg') no-repeat !important;
+    background-size: cover!important;
+    background-position: 100%!important;
+}
+.fourth-lt{
+    background: url('../../../assets/img/technology-wallpaper_1807656.jpg') no-repeat !important;
+    background-size: cover!important;
+    background-position: 100%!important;
+}
+.first-rt{
+    background: url('../../../assets/img/Home 2.jpg') no-repeat  !important;
+    background-size: cover!important;
+    background-position: 0%!important;
+}
+.sec-rt{
+    background: url('../../../assets/img/ai.jpg') no-repeat  !important;
+    background-size: cover!important;
+    background-position: 0%!important;
+
+}
+.third-rt{
+    background: url('../../../assets/img/services2.jpeg') no-repeat  !important;
+    background-size: cover!important;
+    background-position: 0%!important;
+}
+.fourth-rt{
+    background: url('../../../assets/img/technology-wallpaper_1807656.jpg') no-repeat  !important;
+    background-size: cover!important;
+    background-position: 0%!important;
+}
+.txt-center .carousel-caption h3{text-align: center;font-weight: 800 !important;text-shadow: 4px 1px 2px rgba(150, 150, 150, 1);}
+
+
+.overlay{
+    background: none;
+}
+
+.carousel-caption{
+    background: black;
+    color: white;
+}
+
+.txt-center .carousel-caption h3{
+    text-align: center;
+    font-weight: 800!important;
+    color: #fff!important;
+}
+
+.item-title .first-lft{
+    top: 90vh;
+}
+
+.instruction{
+    position: relative;
+    top: -10rem;
+    color: black;
+    left: 1rem;
+}
+.scroll{
+    color: black;
+}
+.mouse{
+    border: 2px solid #333 !important;
+}
+.mouse::after{
+    background-color: #333 !important;
+}
+
+.border-bar-top{
+    background: none !important;
+}
+
+.p.copyright{
+    background-color: #333 !important;
+}
+
+#contact-form .form-control{
+    background: rgb(0 0 0 / 65%) !important;
+    border: #000209 !important;
+}
+
+.menu-wrap-right .menu-right > div > div > ul > li {
+    padding: 1rem !important;
+}
